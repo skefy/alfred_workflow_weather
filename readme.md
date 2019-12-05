@@ -4,7 +4,7 @@
 
 天气API使用 [和风天气](https://dev.heweather.com/docs/getting-started/) 。
 
-**keyword**： tw
+**keyword**： wt
 
 **查询城市**：
 - 自动定位。
